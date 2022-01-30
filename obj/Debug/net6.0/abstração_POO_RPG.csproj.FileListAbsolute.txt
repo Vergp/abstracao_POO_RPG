@@ -1,0 +1,15 @@
+C:\workspace\DIO\abstração_POO_RPG\bin\Debug\net6.0\abstração_POO_RPG.exe
+C:\workspace\DIO\abstração_POO_RPG\bin\Debug\net6.0\abstração_POO_RPG.deps.json
+C:\workspace\DIO\abstração_POO_RPG\bin\Debug\net6.0\abstração_POO_RPG.runtimeconfig.json
+C:\workspace\DIO\abstração_POO_RPG\bin\Debug\net6.0\abstração_POO_RPG.dll
+C:\workspace\DIO\abstração_POO_RPG\bin\Debug\net6.0\ref\abstração_POO_RPG.dll
+C:\workspace\DIO\abstração_POO_RPG\bin\Debug\net6.0\abstração_POO_RPG.pdb
+C:\workspace\DIO\abstração_POO_RPG\obj\Debug\net6.0\abstração_POO_RPG.csproj.AssemblyReference.cache
+C:\workspace\DIO\abstração_POO_RPG\obj\Debug\net6.0\abstração_POO_RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DIO\abstração_POO_RPG\obj\Debug\net6.0\abstração_POO_RPG.AssemblyInfoInputs.cache
+C:\workspace\DIO\abstração_POO_RPG\obj\Debug\net6.0\abstração_POO_RPG.AssemblyInfo.cs
+C:\workspace\DIO\abstração_POO_RPG\obj\Debug\net6.0\abstração_POO_RPG.csproj.CoreCompileInputs.cache
+C:\workspace\DIO\abstração_POO_RPG\obj\Debug\net6.0\abstração_POO_RPG.dll
+C:\workspace\DIO\abstração_POO_RPG\obj\Debug\net6.0\ref\abstração_POO_RPG.dll
+C:\workspace\DIO\abstração_POO_RPG\obj\Debug\net6.0\abstração_POO_RPG.pdb
+C:\workspace\DIO\abstração_POO_RPG\obj\Debug\net6.0\abstração_POO_RPG.genruntimeconfig.cache
